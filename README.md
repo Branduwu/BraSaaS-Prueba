@@ -11,10 +11,9 @@ Este proyecto es una prueba técnica en Node.js que consume datos de la Fake Sto
 
 ## Instalación
 
-1. Clona el repositorio:
-
-   ```bash
- https://github.com/Branduwu/BraSaaS-Prueba
+Clona el repositorio:
+   
+https://github.com/Branduwu/BraSaaS-Prueba
    
 Navega al directorio del proyecto:
 
